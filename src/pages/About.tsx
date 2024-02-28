@@ -20,7 +20,7 @@ function About() {
         </p>
       </div>
       <div style={{ flex: 1 }}>
-        <img src="src/assets/images/steps.jpg" alt="About Image" style={{ maxWidth: '100%', borderRadius: '10px', width:'600px', height: '500px',}} />
+        <img src="/step2.jpg" alt="About Image" style={{ maxWidth: '100%', borderRadius: '10px', width:'600px', height: '500px',}} />
       </div>
       </div>
       </div>

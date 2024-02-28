@@ -26,7 +26,7 @@ function Home() {
         {/* Add more content or components here */}
       </div>
       <div style={{ flex: 1 }}>
-        <img src="src/assets/images/machlearn1.jpg" alt="About Image" style={{ maxWidth: '100%', borderRadius: '10px', width:'600px', height: '500px',}} />
+        <img src="/machlearn2.jpg" alt="About Image" style={{ maxWidth: '100%', borderRadius: '10px', width:'600px', height: '500px',}} />
       </div>
       </div>
       </div>
